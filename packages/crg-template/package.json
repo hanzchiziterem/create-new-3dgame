@@ -1,0 +1,15 @@
+{
+  "name": "crg-template",
+  "version": "1.0.0",
+  "keywords": [],
+  "description": "The base template for Create React Game.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanzchiziterem/create-react-game.git",
+    "directory": "packages/crg-template"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanzchiziterem/create-react-game/issues"
+  }
+}
