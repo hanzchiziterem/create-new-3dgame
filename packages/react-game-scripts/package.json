@@ -1,0 +1,15 @@
+{
+  "name": "react-game-scripts",
+  "version": "1.0.0",
+  "description": "Configuration and Scripts for Create React Game.",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanzchiziterem/create-react-game.git",
+    "directory": "packages/react-game-scripts"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanzchiziterem/create-react-game/issues"
+  }
+}
