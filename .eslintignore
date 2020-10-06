@@ -1,0 +1,6 @@
+#distribution
+**/*.min.js
+**/dist/
+
+#dependencies
+node_modules/
